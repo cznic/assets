@@ -1,9 +1,5 @@
-# assets
+`github.com/cznic/assets` has moved to [`modernc.org/assets`](https://godoc.org/modernc.org/assets) ([vcs](https://gitlab.com/cznic/assets)).
 
-Command assets compiles a directory content to a Go file.
+Please update your import paths to `modernc.org/assets`.
 
-Installation
-
-    $ go get [-u] github.com/cznic/assets
-
-Documentation: [godoc.org/github.com/cznic/assets](http://godoc.org/github.com/cznic/assets)
+This repo is now archived.
